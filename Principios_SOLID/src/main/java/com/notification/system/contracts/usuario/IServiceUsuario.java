@@ -1,4 +1,4 @@
-package com.notification.system.service;
+package com.notification.system.contracts.usuario;
 
 import com.notification.system.models.Usuario;
 

@@ -1,9 +1,8 @@
 package com.notification.system.service;
 
 import com.notification.system.config.Global;
+import com.notification.system.contracts.notificaciones.IServiceNotificacionDB;
 import com.notification.system.models.Notificacion;
-
-import javax.management.modelmbean.InvalidTargetObjectTypeException;
 
 import java.util.Objects;
 

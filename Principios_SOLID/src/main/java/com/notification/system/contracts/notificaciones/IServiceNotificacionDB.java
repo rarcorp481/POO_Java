@@ -1,4 +1,4 @@
-package com.notification.system.service;
+package com.notification.system.contracts.notificaciones;
 
 import com.notification.system.models.Notificacion;
 

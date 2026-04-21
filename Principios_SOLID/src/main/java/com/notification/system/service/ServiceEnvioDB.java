@@ -2,10 +2,11 @@ package com.notification.system.service;
 
 import com.notification.system.config.Global;
 import com.notification.system.models.Envio;
+import com.notification.system.contracts.envios.IServiceEnvioDB;
 
 import java.util.Objects;
 
-public class ServiceEnvioDB implements IServiceEnvioDB{
+public class ServiceEnvioDB implements IServiceEnvioDB {
 
 
     @Override

@@ -1,7 +1,7 @@
 package com.notification.system.service;
 
 import com.notification.system.config.Global;
-import com.notification.system.models.Notificacion;
+import com.notification.system.contracts.usuario.IServiceUsuarioDB;
 import com.notification.system.models.Usuario;
 
 import java.util.Objects;
